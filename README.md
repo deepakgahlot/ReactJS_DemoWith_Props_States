@@ -2,13 +2,11 @@
 
 Steps to follow after downloading the files
 
-1) Run "npm install" in the extracted folder
+1) Open cmd and run "npm install" in the extracted folder
 
 2) Run "npm start" to view the project in browser.
 
 DO practice from your side and compare my code to yours to solve error you might encounter. 
-You may also copy the content of src/ into your own project's src/ folder to use your project setup
- (which might've been created with a different create-react-app version) and still use my code.
 
 ## Available Scripts
 
